@@ -3,3 +3,4 @@ $ git branch -M main
 $ git add .
 $ git commit -m "Inicialización del repositorio con estructura base"
 $ git push -u origin main
+I'm gay as fuck
